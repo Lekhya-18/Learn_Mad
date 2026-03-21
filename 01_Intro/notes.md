@@ -15,11 +15,11 @@ Mobile App Development is the process of creating apps for mobile devices.
 - Built using Java/Kotlin for Android
 - High performance
 
-### 2. PWA
+### 2. PWA / Web App
 - Web-based apps
 - Works in browser
 
-### 3. Cross-Platform
+### 3. Cross-Platform / Hybrid App
 - One code for multiple platforms
 
 ---
@@ -58,4 +58,4 @@ Mobile App Development is the process of creating apps for mobile devices.
 ---
 
 ## 🎯 Goal
-To become proficient in Android Development and build real-world mobile applications.
+>To become proficient in Android Development and build real-world mobile applications.
