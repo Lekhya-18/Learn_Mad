@@ -22,7 +22,7 @@ This repository is created to:
 1. Clone the repository  
 2. Explore folders topic-wise  
 3. Run projects using Android Studio  
-        git clone https://github.com/Lekhya-18/Learn_Mad.git
+        `git clone https://github.com/Lekhya-18/Learn_Mad.git`
 
 
 ## 🤝 Contribution
